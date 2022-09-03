@@ -13,6 +13,14 @@
   }
 }
 
+.foresight-logo{
+  height:20vmin;
+}
+
+.Big-plus {
+  font-size: calc(50px + 2vmin);
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
